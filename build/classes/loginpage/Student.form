@@ -223,7 +223,7 @@
             <Container class="javax.swing.JScrollPane" name="pdfScrollPane">
               <Constraints>
                 <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-                  <AbsoluteConstraints x="219" y="67" width="518" height="680"/>
+                  <AbsoluteConstraints x="219" y="67" width="860" height="680"/>
                 </Constraint>
               </Constraints>
 
@@ -264,7 +264,7 @@
               </Events>
               <Constraints>
                 <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-                  <AbsoluteConstraints x="749" y="67" width="-1" height="-1"/>
+                  <AbsoluteConstraints x="1100" y="70" width="-1" height="-1"/>
                 </Constraint>
               </Constraints>
             </Component>

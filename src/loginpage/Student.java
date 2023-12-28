@@ -383,7 +383,7 @@ public class Student extends javax.swing.JFrame {
 
         pdfScrollPane.setViewportView(pdfPanel);
 
-        MateriPanel.add(pdfScrollPane, new org.netbeans.lib.awtextra.AbsoluteConstraints(219, 67, 518, 680));
+        MateriPanel.add(pdfScrollPane, new org.netbeans.lib.awtextra.AbsoluteConstraints(219, 67, 860, 680));
 
         jButton1.setBackground(new java.awt.Color(51, 153, 255));
         jButton1.setFont(new java.awt.Font("Roboto", 1, 24)); // NOI18N
@@ -394,7 +394,7 @@ public class Student extends javax.swing.JFrame {
                 jButton1ActionPerformed(evt);
             }
         });
-        MateriPanel.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(749, 67, -1, -1));
+        MateriPanel.add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(1100, 70, -1, -1));
 
         jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icon/Rectangle 79.png"))); // NOI18N
         MateriPanel.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 1290, 780));
